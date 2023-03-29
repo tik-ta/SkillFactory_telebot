@@ -1,7 +1,9 @@
 token = '479617483:AAHnN-0rcfKN_HOVha0J7DQYvqZJ0mYlJm4'
 
 keys = {
-    'евро': 'EUR',
+    'биткоин': 'BTC',
+    'эфириум': 'ETH',
     'доллар': 'USD',
-    'рубль': 'RUB',
+    'рубль': 'RUR',
+    'евро': 'EUR'
 }
